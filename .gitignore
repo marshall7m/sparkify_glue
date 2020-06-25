@@ -1,0 +1,6 @@
+__pycache__/
+.DS_Store
+unittests.cfg
+.ipynb_checkpoints/
+data/
+logs/
