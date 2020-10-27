@@ -1,4 +1,4 @@
-cryptography==2.9.2
+cryptography==3.2
 pandas==0.25.3
 pynt==0.8.2
 notebook==6.0.3
